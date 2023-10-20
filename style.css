@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 107, 107);
+    
+}
+
+.a{
+    background-color: rgb(0, 72, 90);
+    color: rgb(255, 235, 235);
+    border-radius: 5px;
+    border: 50px;
+    border-width: 0cap;
+    
+}
+
+.b{
+    color: rgb(255, 235, 235);
+}
+
